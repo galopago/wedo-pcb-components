@@ -1,0 +1,2 @@
+U3;TPS61032;5-V Output, 1-A, 96% Efficient Boost Converter
+L1;6.8 µH inductor;SMD 4A inductor
