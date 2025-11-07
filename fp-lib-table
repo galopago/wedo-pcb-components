@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Connector_RJ_wedo")(type "KiCad")(uri "${KIPRJMOD}/Connector_RJ_wedo.pretty")(options "")(descr ""))
+)
