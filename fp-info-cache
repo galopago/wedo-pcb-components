@@ -1,4 +1,4 @@
-23038459387169937
+23040222378236184
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -51505,6 +51505,13 @@ connector Wuerth WR-WTB vertical
 0
 10
 10
+Connector_battery_blade
+Male_RoundBlade_1x03_P2.0mm_Horizontal
+Round Battery Blade , 53261-0371 (https://www.alpsr.cn/Data/switchsmd/upload/image/20230223/XB--A00M-2-10P-R4.pdf)
+Battery blade connector male round
+0
+6
+3
 Converter_ACDC
 Converter_ACDC_CUI_PBO-3-Sxx_THT_Vertical
 ACDC-Converter, 3W, CUI PBO-3, THT https://www.cui.com/product/resource/pbo-3.pdf
